@@ -1,3 +1,5 @@
+#All the required requirements for the project are listed below. Install them using pip.
+
 numpy
 pandas
 matplotlib

@@ -1,5 +1,4 @@
-# ACADEMIC PREDICTOR
-# Predicting Student Academic Performance Using Machine Learning
+# ACADEMIC PREDICTOR - Predicting Student Academic Performance Using Machine Learning
 # Oakland University - Machine Learning Project
 # Made By: Nidhish Shah and Kyle Do
 
