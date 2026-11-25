@@ -1,4 +1,3 @@
-
 # 🎓 Academic Predictor
 
 Academic Predictor is a machine learning project that predicts whether a student is academically **At Risk** or **Satisfactory** based on academic, personal, and environmental factors.
